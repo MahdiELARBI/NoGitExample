@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         // ajoutant quelques choses à commuter
         
         print ("new value de test")
+        //---------
     }
 
     override func didReceiveMemoryWarning() {
